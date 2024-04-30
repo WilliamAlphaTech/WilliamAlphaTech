@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WilliamAlphaTech
+- 🌱 I’m currently learning Full Stack Web Dev
+- 📫 How to reach me William@alphatechnologies.ca
